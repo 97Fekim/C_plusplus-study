@@ -1,2 +1,1 @@
-# C_plusplus-study
-# with inflearn
+# C_plusplus-study with inflearn
